@@ -1,0 +1,7 @@
+#Tue Feb 28 22:48:58 CST 2017
+base.0=D\:\\javaAPP\\ban\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_81125890d0c5be3b01ed3d4f3e5ee6494ced5917
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=D\:\\javaAPP\\ban\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_08950917390e8723372b21291f3293113e90b7f2\\classes.dex
+base.1=D\:\\javaAPP\\ban\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_08950917390e8723372b21291f3293113e90b7f2
+file.0=D\:\\javaAPP\\ban\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_81125890d0c5be3b01ed3d4f3e5ee6494ced5917\\classes.dex
